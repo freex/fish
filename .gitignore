@@ -9,6 +9,8 @@ proj.wp8-xaml/
 *.log
 proj.win32/Debug.win32
 proj.win32/MyCppGame.opensdf
+proj.win32/MyCppGame.sdf
+proj.win32/MyCppGame.v11.suo
 *.lastbuildstate
 *.pdb
 *.idb
