@@ -1,0 +1,15 @@
+cocos2d/
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.wp8-xaml/
+*.obj
+*.tlog
+*.exe
+*.log
+proj.win32/Debug.win32
+proj.win32/MyCppGame.opensdf
+*.lastbuildstate
+*.pdb
+*.idb
+git-cmd.lnk
